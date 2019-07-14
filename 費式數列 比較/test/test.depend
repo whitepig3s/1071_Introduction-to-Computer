@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1544001844 source:c:\users\zi\desktop\test\main.cpp
+	<iostream>
+	<ctime>
+
